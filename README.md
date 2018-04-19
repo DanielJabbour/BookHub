@@ -1,2 +1,2 @@
 # BookHub
-Software platform changing the way students buy and sell used books.
+A software platform changing the way students buy and sell used books.
